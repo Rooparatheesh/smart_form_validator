@@ -1,4 +1,4 @@
-name: smart_form_validator
+name: flutter_smart_validator
 description: A reusable Flutter form validation package with modular validators.
 version: 1.0.3
 homepage: https://github.com/Rooparatheesh/smart_form_validator
