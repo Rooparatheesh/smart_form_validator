@@ -1,11 +1,11 @@
-name: example
-description: "Example app for smart_form_validator package"
+name: roopa_form_validator_example
+description: Example app for roopa_form_validator package
 publish_to: 'none'
 
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.9.2
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -13,14 +13,14 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  # 🔥 Connect your local package here
-  smart_form_validator:
+  # Connect your local package
+  roopa_form_validator:
     path: ../
+  smart_form_validator: ^1.0.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^5.0.0
 
 flutter:
