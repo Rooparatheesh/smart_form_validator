@@ -1,4 +1,4 @@
-import 'package:flutter_smart_validator/smart_form_validator.dart';
+import 'package:flutter_smart_validator/flutter_smart_validator.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

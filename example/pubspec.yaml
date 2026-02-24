@@ -1,5 +1,5 @@
-name: flutter_smart_validator
-description: Example app for smart_form_validator package
+name: flutter_smart_validator_example
+description: Example app for flutter_smart_validator package
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -13,8 +13,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
-  # Connect your local package (ONLY THIS)
-  smart_form_validator:
+  flutter_smart_validator:
     path: ../
 
 dev_dependencies:
