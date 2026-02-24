@@ -1,9 +1,10 @@
-name: roopa_form_validator
+name: smart_form_validator
 description: A reusable Flutter form validation package with modular validators.
 version: 1.0.0
-homepage: https://github.com/Rooparatheesh/roopa_form_validator
-repository: https://github.com/Rooparatheesh/roopa_form_validator
-issue_tracker: https://github.com/Rooparatheesh/roopa_form_validator/issues
+
+homepage: https://github.com/Rooparatheesh/smart_form_validator
+repository: https://github.com/Rooparatheesh/smart_form_validator
+issue_tracker: https://github.com/Rooparatheesh/smart_form_validator/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -16,6 +17,5 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
-  smart_form_validator: ^1.0.2
 
 flutter:

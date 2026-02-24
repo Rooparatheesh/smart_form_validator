@@ -139,13 +139,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
-  roopa_form_validator:
-    dependency: "direct main"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -154,11 +147,10 @@ packages:
   smart_form_validator:
     dependency: "direct main"
     description:
-      name: smart_form_validator
-      sha256: "89049544845c8ad7ca406db187f8a5c243fd9261dbca251c41c89df9fe583b0e"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.2"
+      path: ".."
+      relative: true
+    source: path
+    version: "1.0.0"
   source_span:
     dependency: transitive
     description:
