@@ -1,10 +1,8 @@
-## 1.0.3
+## 1.0.0
 
-- Renamed package to flutter_smart_validator
-- Cleaned structure
-- Removed old files
-- Updated example
-- Fixed imports
+- First stable release
+- Added required, email, mobile, password and date validators
+- Cleaned structure and renamed package
 
 ## 0.0.1
 
